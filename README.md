@@ -1,7 +1,5 @@
 # University Management System
 
-![University Management System](icons/Logo.png)
-
 The University Management System is a comprehensive desktop based application designed to streamline administrative tasks and facilitate the management of universities or educational institutions. This system provides tools for managing student records, courses, faculty, and more.
 
 ## Table of Contents
