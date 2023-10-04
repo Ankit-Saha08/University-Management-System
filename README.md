@@ -1,6 +1,6 @@
 # University Management System
 
-![University Management System](https://github.com/Ankit-Saha08/University-Management-System/blob/main/assets/ums_logo.png)
+![University Management System](Output Screenshots/Screenshot (10).png)
 
 The University Management System is a comprehensive web application designed to streamline administrative tasks and facilitate the management of universities or educational institutions. This system provides tools for managing student records, courses, faculty, and more.
 
@@ -48,7 +48,7 @@ Once the University Management System is up and running, you can use it to:
 For more detailed usage instructions, refer to the user documentation.
 
 ## Demo
-You can explore a live demo of the University Management System here. Please note that this is a demo version for demonstration purposes only.
+Since this is a locally hosted desktop application. It is recommended to download XAMPP server and use the MySQL workbench set inbuilt.
 
 ## Contributing
 Contributions to the University Management System are welcome! Whether you want to report a bug, suggest an enhancement, or contribute code, please follow these guidelines:
