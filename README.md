@@ -34,6 +34,7 @@ To get started with the University Management System, follow these steps:
    ```bash
    git clone https://github.com/Ankit-Saha08/University-Management-System.git
 2. **Preferrable IDE**: Use Eclipse IDE or IntelliJ.
+3. **Download the DB file:** Download the ums_db.sql file and import it on any MySQL workbench. Recommended - Use the MySQL workbench in phpMyAdmin of XAMPP server.
 
 ## Usage
 Once the University Management System is up and running, you can use it to:
@@ -46,14 +47,21 @@ Once the University Management System is up and running, you can use it to:
 For more detailed usage instructions, refer to the user documentation.
 
 ## Demo
-Since this is a locally hosted desktop application. It is recommended to download XAMPP server and use the MySQL workbench set inbuilt.
+Since this is a locally hosted desktop application. It is recommended to download XAMPP server and import the DB file and import it in the MySQL workbench set inbuilt.
 
 ## Contributing
-Contributions to the University Management System are welcome! Whether you want to report a bug, suggest an enhancement, or contribute code, please follow these guidelines:
-- Check the Contribution Guidelines for details on how to contribute.
-- Feel free to open an Issue to report a bug or request a feature.
-- If you want to contribute code, please fork the repository and create a pull request following the guidelines.
-Let's work together to improve the University Management System and make it even better!
+* Raise an issue. Describe the issue based on two parameters:
+  1. Issues / Errors / Bugs
+  2. Proposed Improvements / Fixes
+* Get the task assigned
+* Fork the repo
+* Follow the steps mentioned in Getting Started section
+* Create a PR and commit your changes.
+* Write the following in PR message:
+  1. Changes made
+  2. Validation of Testing done after changes
+  3. Mention the issue (#) resolved in the PR.
+* Wait for the maintainer to review and get your PR merged.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own educational or organizational purposes. If you make improvements or modifications, consider contributing them back to the project as well.
