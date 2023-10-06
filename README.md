@@ -8,8 +8,8 @@ The University Management System is a comprehensive desktop based application de
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Contributing](#contributing)
+- [Demo](#demo)
 - [License](#license)
 
 ## Introduction
@@ -46,22 +46,22 @@ Once the University Management System is up and running, you can use it to:
 6. Generate reports and analytics on student performance.
 For more detailed usage instructions, refer to the user documentation.
 
-## Demo
-Since this is a locally hosted desktop application. It is recommended to download XAMPP server and import the DB file and import it in the MySQL workbench set inbuilt.
-
 ## Contributing
 * Raise an issue. Describe the issue based on two parameters:
   1. Issues / Errors / Bugs
   2. Proposed Improvements / Fixes
 * Get the task assigned
 * Fork the repo
-* Follow the steps mentioned in Getting Started section
+* Follow the steps mentioned in [Getting Started](#getting-started) section
 * Create a PR and commit your changes.
 * Write the following in PR message:
   1. Changes made
   2. Validation of Testing done after changes
   3. Mention the issue (#) resolved in the PR.
 * Wait for the maintainer to review and get your PR merged.
+
+## Demo
+Since this is a locally hosted desktop application. It is recommended to download XAMPP server and import the DB file and import it in the MySQL workbench set inbuilt.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own educational or organizational purposes. If you make improvements or modifications, consider contributing them back to the project as well.
